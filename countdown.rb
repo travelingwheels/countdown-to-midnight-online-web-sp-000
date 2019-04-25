@@ -1,5 +1,5 @@
 #write your code here
-
+n = 10
 
 def countdown(n)
   
