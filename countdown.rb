@@ -9,9 +9,3 @@ def countdown
   return "HWPPY NEW YEAR!"
   
 end
-
-
-
-def countdown_with_sleep
-  sleep (5)
-end 
