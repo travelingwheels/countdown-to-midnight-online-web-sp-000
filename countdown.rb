@@ -1,7 +1,7 @@
 #write your code here
-n = 10
 
-def countdown(n)
+def countdown
+  n = 10
   while n > 0
     puts "#{n} second(s)!"
      n -= 1
